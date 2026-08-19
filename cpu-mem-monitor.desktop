@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=CPU & Memory Monitor
+Comment=Лек монитор за CPU и Memory
+Exec=python3 /home/user/cpu_mem_monitor.py
+Icon=utilities-system-monitor
+Terminal=false
+Type=Application
+Categories=Utility;System;
+StartupNotify=false
