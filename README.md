@@ -2,7 +2,7 @@
 
 Simple CPU and Memory usage monitor for Linux.
 
-Please see the picture: CPU-Memory-Monitor.png
+Please see the picture: CPU-Memory-Monitor.jpg
 
 ## How to install & run
 
