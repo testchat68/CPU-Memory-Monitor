@@ -33,5 +33,5 @@ The values are updated automatically.
 Forever Free for use by everyone: private and/or public and/or business.  
 You are free to use it as it is or change anything you want depending on your whims.
 
-Any issues, questions, or if you are too lazy to do the changes yourself:  
+Any issues, questions, recommendations:  
 good.vibes.github@gmail.com
